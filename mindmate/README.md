@@ -11,7 +11,7 @@ MindMate AI is a fullstack AI-powered mental health journaling and mood-tracking
 - 💬 GPT-powered chat for emotional support
 - 🧘 Affirmations and self-care suggestions
 - 🔐 JWT-based login & registration system
-- 🌙 Dark theme with Gen Z modern UI
+- 🌙 Dark theme with modern UI
 
 ---
 
