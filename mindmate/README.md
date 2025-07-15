@@ -1,6 +1,6 @@
 # 🧠 MindMate AI – Mental Health Copilot
 
-MindMate AI is a fullstack AI-powered mental health journaling and mood-tracking app. It helps users anonymously track emotions, write journals, talk to a GPT-based assistant, and receive personalized affirmations — all inside a Gen Z–friendly dark UI.
+MindMate AI is a fullstack AI-powered mental health journaling and mood-tracking app. It helps users anonymously track emotions, write journals, talk to a GPT-based assistant, and receive personalized affirmations — all inside a friendly dark UI.
 
 ---
 
