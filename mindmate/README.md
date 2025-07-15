@@ -36,17 +36,17 @@ MindMate AI is a fullstack AI-powered mental health journaling and mood-tracking
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](./screenshots/Home1.png)
-![Home](./screenshots/Home2.png)
+![Home](./Screenshots/Home1.png)
+![Home](./Screenshots/Home2.png)
 
 ### ✍️ Journal Entry
-![Journal](./screenshots/journel.png)
+![Journal](./Screenshots/journel.png)
 
 ### 💬 GPT Chat Interface
-![Chat](./screenshots/chat.png)
+![Chat](./Screenshots/chat.png)
 
 ### 📈 Mood Tracker Graph
-![Mood Graph](./screenshots/Mood1.png)
+![Mood Graph](./Screenshots/Mood1.png)
 
 ---
 
